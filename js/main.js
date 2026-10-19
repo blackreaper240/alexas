@@ -1,5 +1,5 @@
 // Reemplaza con tu número real de WhatsApp con código de país
-const TELEFONO_WHATSAPP = "50500000000";
+const TELEFONO_WHATSAPP = "50589060210";
 
 // Lógica de colores según el color del producto y el tema activo (Claro u Oscuro)
 function obtenerColorResplandor(titulo, tema) {
