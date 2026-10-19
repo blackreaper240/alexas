@@ -17,7 +17,9 @@
     <a href="#" class="logo">Alexas</a>
     <nav class="navbar">
       <a href="#catalogo">Catálogo</a>
-      <a href="#contacto">Contacto</a>
+      <!-- Enlace de contacto conectado dinámicamente a WhatsApp -->
+      <a href="#" id="nav-contacto" target="_blank" rel="noopener noreferrer">Contacto</a>
+      
       <!-- Botón de cambio de tema (Modo Claro / Oscuro) -->
       <button id="theme-toggle" class="theme-toggle-btn" aria-label="Cambiar Tema">
         <svg class="sun-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
@@ -47,10 +49,17 @@
     </div>
   </section>
 
-  <!-- Footer -->
+  <!-- Footer / Contacto -->
   <footer id="contacto">
     <div class="footer-content">
-      <p>&copy; 2026 Alas Alexa. Todos los derechos reservados.</p>
+      <h2>¿Tienes alguna duda o pedido especial?</h2>
+      <p>Contáctanos directamente para una atención personalizada.</p>
+      
+      <div class="contact-links">
+        <a href="#" id="footer-wa-btn" target="_blank" rel="noopener noreferrer" class="btn-primary">Escribir por WhatsApp</a>
+      </div>
+
+      <p class="copyright">&copy; 2026 Alas Alexa. Todos los derechos reservados.</p>
     </div>
   </footer>
 

@@ -1,6 +1,18 @@
 // Reemplaza con tu número real de WhatsApp con código de país
 const TELEFONO_WHATSAPP = "50589060210";
 
+// Configurar dinámicamente los botones de contacto general de WhatsApp
+function configurarEnlacesContacto() {
+  const mensajeGeneral = encodeURIComponent("Hola, quisiera realizar una consulta sobre los productos de Alas Alexa.");
+  const urlWhatsApp = `https://wa.me/${TELEFONO_WHATSAPP}?text=${mensajeGeneral}`;
+
+  const navContacto = document.getElementById("nav-contacto");
+  const footerBtn = document.getElementById("footer-wa-btn");
+
+  if (navContacto) navContacto.href = urlWhatsApp;
+  if (footerBtn) footerBtn.href = urlWhatsApp;
+}
+
 // Lógica de colores según el color del producto y el tema activo (Claro u Oscuro)
 function obtenerColorResplandor(titulo, tema) {
   const t = titulo.toLowerCase();
@@ -181,4 +193,5 @@ document.addEventListener("DOMContentLoaded", () => {
   initTheme();
   cargarProductos();
   initTypingEffect();
+  configurarEnlacesContacto();
 });
