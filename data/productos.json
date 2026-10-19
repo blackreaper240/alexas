@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "titulo": "Echo Pop - Lavanda",
+    "descripcion": "Altavoz inteligente compacto con diseño semicircular en tono lavanda.",
+    "especificaciones": [
+      "Altavoz frontal de 49.5 mm (1.95\") con audio HD sin pérdidas",
+      "Procesador Amazon AZ2 Neural Edge de alta velocidad",
+      "Wi-Fi doble banda (802.11a/b/g/n/ac) y Bluetooth",
+      "Botón físico para apagar micrófonos y barra LED superior",
+      "Dimensiones: 99 x 83 x 91 mm | Peso: 196 g"
+    ],
+    "imagen_url": "https://i.imgur.com/HUiawpA.jpeg"
+  },
+  {
+    "id": 2,
+    "titulo": "Echo Pop - Verde Teal",
+    "descripcion": "Altavoz inteligente compacto con sonido potente y diseño esférico cortado.",
+    "especificaciones": [
+      "Altavoz frontal de 49.5 mm (1.95\") con audio HD sin pérdidas",
+      "Procesador Amazon AZ2 Neural Edge de alta velocidad",
+      "Wi-Fi doble banda (802.11a/b/g/n/ac) y Bluetooth",
+      "Botón físico para apagar micrófonos y barra LED superior",
+      "Dimensiones: 99 x 83 x 91 mm | Peso: 196 g"
+    ],
+    "imagen_url": "https://i.imgur.com/oJe6IOW.jpeg"
+  },
+  {
+    "id": 3,
+    "titulo": "Echo Dot 5ª Gen con Reloj",
+    "descripcion": "Altavoz esférico con indicador LED brillante para hora, clima y alarmas.",
+    "especificaciones": [
+      "Indicador LED frontal para hora, canciones y temporizadores",
+      "Altavoz frontal de 44 mm (1.73\") con audio HD sin pérdidas",
+      "Sensor de temperatura integrado y control por toques",
+      "Compatibilidad con protocolo Matter y sonido multiestancia",
+      "Dimensiones: 100 x 100 x 89 mm | Peso: 349 g"
+    ],
+    "imagen_url": "https://i.imgur.com/ZTsLI2O.jpeg"
+  },
+  {
+    "id": 4,
+    "titulo": "Echo Pop - Negro Charcoal",
+    "descripcion": "Altavoz inteligente compacto ideal para recámaras y espacios reducidos.",
+    "especificaciones": [
+      "Altavoz frontal de 49.5 mm (1.95\") con audio HD sin pérdidas",
+      "Procesador Amazon AZ2 Neural Edge de alta velocidad",
+      "Wi-Fi doble banda (802.11a/b/g/n/ac) y Bluetooth",
+      "Botón físico para apagar micrófonos y barra LED superior",
+      "Dimensiones: 99 x 83 x 91 mm | Peso: 196 g"
+    ],
+    "imagen_url": "https://i.imgur.com/HrdLYjf.jpeg"
+  },
+  {
+    "id": 5,
+    "titulo": "Echo Show 5 - Blanco",
+    "descripcion": "Pantalla inteligente de 5.5\" para streaming, cámaras y videollamadas.",
+    "especificaciones": [
+      "Pantalla táctil de 5.5 pulgadas",
+      "Cámara frontal con cubierta física deslizante integrada",
+      "Altavoz integrado de 42 mm (4W)",
+      "Wi-Fi doble banda (802.11a/b/g/n/ac) y salida jack 3.5 mm",
+      "Dimensiones: 148 x 86 x 73 mm | Peso: 410 g"
+    ],
+    "imagen_url": "https://i.imgur.com/cG2QCqo.jpeg"
+  },
+  {
+    "id": 6,
+    "titulo": "Echo Show 5 - Negro",
+    "descripcion": "Pantalla inteligente interactiva con control visual de hogar digital.",
+    "especificaciones": [
+      "Pantalla táctil de 5.5 pulgadas",
+      "Cámara frontal con cubierta física deslizante integrada",
+      "Altavoz integrado de 42 mm (4W)",
+      "Wi-Fi doble banda (802.11a/b/g/n/ac) y salida jack 3.5 mm",
+      "Dimensiones: 148 x 86 x 73 mm | Peso: 410 g"
+    ],
+    "imagen_url": "https://i.imgur.com/u9e2UcV.jpeg"
+  },
+  {
+    "id": 7,
+    "titulo": "Echo Dot 5ª Gen - Negro",
+    "descripcion": "El altavoz inteligente esférico con sonido envolvente y sensor térmico.",
+    "especificaciones": [
+      "Altavoz frontal de 44 mm (1.73\") con audio HD sin pérdidas",
+      "Sensor de temperatura integrado y acelerómetro (Tap Control)",
+      "Compatibilidad con protocolo Matter y sonido multiestancia",
+      "Conectividad Wi-Fi de doble banda y Bluetooth",
+      "Dimensiones: 100 x 100 x 89 mm | Peso: 340 g"
+    ],
+    "imagen_url": "https://i.imgur.com/YZFDrO3.jpeg"
+  }
+]
